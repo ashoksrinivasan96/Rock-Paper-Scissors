@@ -60,10 +60,9 @@ function computerPlay(playerSelection){
 
 }
 ```
-## How to Play?
-Find the game [here](https://ipshitachatterjee.github.io/Rock-Paper-Scissors/)
+
 
 ## Credits
-**©Ipshita Chatterjee | 2018**
+**©Ashok Srinivasan| 2020**
 
 Made for the project that can be found [here](https://www.theodinproject.com/courses/web-development-101/lessons/rock-paper-scissors)
