@@ -60,7 +60,8 @@ function computerPlay(playerSelection){
 
 }
 ```
-
+## Play the game
+You can also play the game [here](https://ashoksrinivasan96.github.io/Rock-paper-scissors/)
 
 ## Credits
 **©Ashok Srinivasan| 2020**
