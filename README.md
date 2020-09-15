@@ -8,7 +8,7 @@ I started out with the very informative courses at [The Odin Project](https://ww
 ## Screenshots
 <img src="assets/images/screenshots/main.PNG" width="500px">
 <img src="assets/images/screenshots/main-2.PNG" width="500px">
-<img src="assets/images/screenshots/results.PNG" width="500px">
+<img src="assets/images/screenshots/image.png" width="500px">
 
 ## Tech/Framewroks Used
 Nothing fancy just same old HTML5, CSS3 and Javascript
